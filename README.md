@@ -3,7 +3,7 @@
 
 <p align="left"><h2>My name is Vardhini Valluru and I'm a passionate web developer, from nellore,andhrapradesh</h2></p>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"  />
 </div>
 
 ###
