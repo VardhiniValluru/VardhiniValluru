@@ -82,6 +82,8 @@ A brief description of Project 3. In this project, I used...
 ---
 
 **Note**: To implement the snake animation and the recent activity feed, you need to set up GitHub Actions.
+![Snake animation](https://github.com/VardhiniValluru/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Snake Animation Workflow
 
