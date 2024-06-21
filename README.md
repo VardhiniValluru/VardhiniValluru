@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 ###
 
-<p align="left"><h2>My name is Vardhini Valluru and I'm a passionate web developer, from nellore,andhrapradesh</h2></p>
+<p align="left"><h2>My name is Vardhini Valluru and I'm a passionate web developer, from Nellore,Andhra Pradesh</h2></p>
 <div align="center">
 
 </div>
@@ -40,5 +40,5 @@
  <div align="center">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center">
   </div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 ###
